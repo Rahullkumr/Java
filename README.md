@@ -1,2 +1,2 @@
 # Java
-Folder for Java Programs
+Folder for Java Programs and Assignments
