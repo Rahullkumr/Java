@@ -1,2 +1,1 @@
-# Java
-Folder for Java Programs and Assignments
+Folder for college related Assignments
