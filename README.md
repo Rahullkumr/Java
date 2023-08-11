@@ -13,9 +13,10 @@
     * Familiarity with version control systems (e.g., Git) and basic command-line usage
     * Knowledge of database systems (such as MySQL or PostgreSQL) and SQL queries
 
-+ 3. Techlead (17 - 19 aug)
++ 3. Techlead (11 aug)
 
    positions related to C, C++, Python, and Image Processing(openCV)
+   <a href="https://github.com/Rahullkumr/IMCC/blob/main/leve1.pdf">First round question paper</a>
 
 + 4. Avatu (21 - 22 aug) PLCMNT
 
