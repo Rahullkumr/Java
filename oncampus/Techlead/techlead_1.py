@@ -12,5 +12,5 @@ num = int(input("Enter number to get factorial: "))
 
 if num < 0:
     print("Enter valid positive number")
-    
-print(f"Factorial of {num} : {fact(num)}")
+else:
+    print(f"Factorial of {num} : {fact(num)}")
