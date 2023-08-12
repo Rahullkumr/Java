@@ -4,6 +4,8 @@
 
 ```diff
 - 1. Omniscient
+    Reasons for rejection: 
+        Poor performance in GD and not able to explain the project properly
 
 + 2. Inpinite (10 - 12 aug)
 
@@ -14,12 +16,10 @@
     * Knowledge of database systems (such as MySQL or PostgreSQL) and SQL queries
 
 - 3. Techlead (11 aug)
+    Reasons for rejection: 
+        not able to clear basic coding round(first round)
 
-   positions related to C, C++, Python, and Image Processing(openCV)
-
-   <a href="https://github.com/Rahullkumr/IMCC/blob/main/leve1.pdf">First round question paper</a>
-
-[google](https://www.google.co.in/)
+    positions related to C, C++, Python, and Image Processing(openCV)
 
 + 4. Avatu (21 - 22 aug) PLCMNT
 
@@ -27,7 +27,9 @@
 
 + 5. Veritas (23 - 24 aug)
 
-.
+    atleast one: Core Java, SQL, REST, SOAP, Python, Oracle, Data science, 
+                Selenium, Java, Cybersecurity tools, web development, data scientists, 
+                data analytics (web) , IoT, edge computing, UI/UX
 
 + 6. Datametica ()
 
