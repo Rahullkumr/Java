@@ -13,7 +13,7 @@
     * Familiarity with version control systems (e.g., Git) and basic command-line usage
     * Knowledge of database systems (such as MySQL or PostgreSQL) and SQL queries
 
-+ 3. Techlead (11 aug)
+- 3. Techlead (11 aug)
 
    positions related to C, C++, Python, and Image Processing(openCV)
 
