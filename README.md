@@ -21,6 +21,8 @@
 
     positions related to C, C++, Python, and Image Processing(openCV)
 
+    Question paper added, have a look
+
 + 4. Avatu (21 - 22 aug) PLCMNT
 
     Atleast one(Java, OOP, JavaScript, React.js, Angular, Python)
