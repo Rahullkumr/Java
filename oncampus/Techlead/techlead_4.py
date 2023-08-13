@@ -9,26 +9,27 @@ def remove_invalid_parentheses(s):
     stack = []
     result = []
     
-    # Iterate through the string and process each character
     for char in s:
         if char == '(':
-            stack.append('(')
-            result.append('(')
+            stack.append(char)
+            result.append(char)
         elif char == ')':
             if stack:
                 stack.pop()
-                result.append(')')
+                result.append(char)
         else:
             result.append(char)
     
-    # Remove any remaining unmatched opening parentheses
+    # Remove any remaining unmatched opening parentheses 
+    # like in case of ()(((
     for char in stack:
-        result.remove('(')
+        result.pop(-1)
     
+    # joining the elements of the list: result into a string and returning the string
     return ''.join(result)
 
 # Example usage
-input_string = "()())()"
+input_string = ")()()))((("
 output_string = remove_invalid_parentheses(input_string)
 print("Input:", input_string)
 print("Output:", output_string)
