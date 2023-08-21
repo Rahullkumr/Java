@@ -23,7 +23,9 @@
 
     Question paper added, have a look
 
-+ 4. Avatu (21 - 22 aug) PLCMNT
+- 4. Avatu (21 - 22 aug) PLCMNT
+    Reasons for rejection: 
+        not able to clear basic coding round(first round)
 
     Atleast one(Java, OOP, JavaScript, React.js, Angular, Python)
 
