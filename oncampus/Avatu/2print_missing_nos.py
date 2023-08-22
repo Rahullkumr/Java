@@ -24,8 +24,12 @@ def print_repeated(array):
         if count > 1:
             print(f"{i} is repeated {count} times")
 
-# arr = [1,2,3,4,6,7,10]
-# find_missing(arr)
+
+arr = [1,2,3,4,6,7,10]
+print(arr)
+find_missing(arr)
+print("\n-----------------------------------------------\n")
+
 
 array = [1,2,2,3,3,4,5,6,7,7,8,5]
 print(array)
