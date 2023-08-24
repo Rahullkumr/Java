@@ -41,6 +41,7 @@
         5. projects not completed
         5. projects not hosted
         6. limited the qns by saying basics(sql and php) 
+        7. how do you approach debugging a bug in a working app?
         
     atleast one: Core Java, SQL, REST, SOAP, Python, Oracle, Data science, 
                 Selenium, Java, Cybersecurity tools, web development, data scientists, 
