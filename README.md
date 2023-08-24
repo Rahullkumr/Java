@@ -29,8 +29,19 @@
 
     Atleast one(Java, OOP, JavaScript, React.js, Angular, Python)
 
-+ 5. Veritas (23 - 24 aug)
+- 5. Veritas (23 - 24 aug)
 
+    Reasons for rejection(passed 2/4 rounds, failed at 3rd: Managerial round): 
+    
+        0. Took out pen/paper without their permission
+        1. intro... yourself (no proper intro)
+        2. strengths (not prepared)
+        3. joins in sql?
+        4. db connection?
+        5. projects not completed
+        5. projects not hosted
+        6. limited the qns by saying basics(sql and php) 
+        
     atleast one: Core Java, SQL, REST, SOAP, Python, Oracle, Data science, 
                 Selenium, Java, Cybersecurity tools, web development, data scientists, 
                 data analytics (web) , IoT, edge computing, UI/UX
