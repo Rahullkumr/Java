@@ -4,9 +4,15 @@ left = 0
 right = 0 
 
 while arr[left] < arr[right]:
-    mid = left + right
+    mid = (left + right) // 2
     for i in range(0, len(arr)):
-        if arr[mid] == to_be_searched:
+        if to_be_searched == arr[mid]:
             print(i)
 
-        if arr[mid] 
+        if to_be_searched < arr[mid]:
+            right = mid - 1
+        elif to_be_searched > arr[mid]:
+            left = mid + 1
+
+
+        
