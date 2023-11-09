@@ -51,8 +51,8 @@
 
    Technical Training will be on Cloud (GCP / Azure / AWS) and Data.
 
-+ 7. Coditas (19 oct 2023)
+- 7. Coditas (19 oct 2023)
 
-+ 7. Harbinger Group (20 oct 2023)
+- 8. Harbinger Group (20 oct 2023)
    
 ```
