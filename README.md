@@ -7,7 +7,7 @@
     Reasons for rejection: 
         Poor performance in GD and not able to explain the project properly
 
-+ 2. Inpinite (date not announced)
+- 2. Inpinite (date not announced)
 
     * Atleast one(Javascript, Python, PHP or C#) with strong Oops concepts
     * Familiarity with basic data structures and algorithms
@@ -47,7 +47,7 @@
                 Selenium, Java, Cybersecurity tools, web development, data scientists, 
                 data analytics (web) , IoT, edge computing, UI/UX
 
-+ 6. Datametica (date not announced)
+- 6. Datametica (date not announced)
 
    Technical Training will be on Cloud (GCP / Azure / AWS) and Data.
 
