@@ -52,7 +52,26 @@
    Technical Training will be on Cloud (GCP / Azure / AWS) and Data.
 
 - 7. Coditas (19 oct 2023)
+    Reasons for rejection: 
+        - Poor performance in GD
+        - topic: cryptocurrency, should be legalised or not?
 
 - 8. Harbinger Group (20 oct 2023)
+    Reasons for rejection: 
+        - First round not cleared 
+        - reason: c# as coding language
+
+
+
+
+
+ 9. Sumago Infotech () | 3-4 lpa | internship cum full time | (13 Dec)
+    
+
+ 10. WisdmLabs | 6.5 lpa | internship cum Wfh | (14 Dec)
+
+ 11. Human cloud | 7k | internship | (20 dec)
+
+
    
 ```
