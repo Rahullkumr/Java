@@ -61,17 +61,12 @@
         - First round not cleared 
         - reason: c# as coding language
 
+- 9. WisdmLabs | 6.5 lpa | internship cum Wfh | (14 Dec)
+    Reasons for rejection: 
+        - First round not cleared 
+        - good level of qns
 
-
-
-
- 9. Sumago Infotech () | 3-4 lpa | internship cum full time | (13 Dec)
-    
-
- 10. WisdmLabs | 6.5 lpa | internship cum Wfh | (14 Dec)
-
- 11. Human cloud | 7k | internship | (20 dec)
-
++ 10. Sumago Infotech | 3-4 lpa | internship cum full time | (13 Dec)
 
    
 ```
