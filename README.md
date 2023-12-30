@@ -68,5 +68,8 @@
 
 + 10. Sumago Infotech | 3-4 lpa | internship cum full time | (13 Dec)
 
+11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
+
+12?. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUTTER
    
 ```
