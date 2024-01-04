@@ -63,10 +63,14 @@
 
 - 9. WisdmLabs | 6.5 lpa | internship cum Wfh | (14 Dec)
     Reasons for rejection: 
-        - First round not cleared 
+        - First round not cleared
         - good level of qns
 
-+ 10. Sumago Infotech | 3-4 lpa | internship cum full time | (13 Dec)
+- 10. Sumago Infotech | 3-4 lpa | internship cum full time | (13 Dec)
+    Reasons for rejection (Python Developer):
+        - Database connectivity
+        - mutable vs immutable
+        - Django
 
 11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
 
