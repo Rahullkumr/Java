@@ -62,7 +62,7 @@
         - reason: c# as coding language
 
 - 9. WisdmLabs | 6.5 lpa | internship cum Wfh | (14 Dec)
-    Reasons for rejection: 
+    Reasons for rejection:
         - First round not cleared
         - good level of qns
 
