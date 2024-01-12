@@ -74,6 +74,6 @@
 
 11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
 
-12?. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUTTER
+12?. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUT
    
 ```
