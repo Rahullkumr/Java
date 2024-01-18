@@ -72,8 +72,13 @@
         - mutable vs immutable
         - Django
 
-11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
+- 11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
+    Reasons for rejection:
+        not ready for flutter developer
 
-12. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUTTER | 14 Jan (office)
-   
+- 12. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUTTER | 14 Jan (office)
+    Reasons for rejection:
+        not visited
+
+- 13. Omniscient ==> not applied
 ```
