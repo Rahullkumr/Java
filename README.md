@@ -75,6 +75,10 @@
 - 11. SolveAll Solutions | 12k internship 6 mnths | FLUTTER
     Reasons for rejection:
         not ready for flutter developer
+        - problem visiting our office😥
+        - compiler vs interpreter
+        - write code on paper for login ui
+        - state mgmt ?
 
 - 12. Techne AI Pvt. Ltd | 10k internship 6 mnths | FLUTTER | 14 Jan (office)
     Reasons for rejection:
