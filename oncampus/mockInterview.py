@@ -10,3 +10,19 @@ eg. first call => print 1 to 10
     second call => print 11 to 20
 '''
 
+class Myclass:
+    start = 1    
+    def __init__(self,limit):
+        self.limit = limit
+
+    def output(self):
+        for _ in range(self.limit):
+            print(self.start)
+            self.start += 1
+        print()
+
+obj = Myclass(10)
+obj.output()
+obj.output()
+
+obj.output()
