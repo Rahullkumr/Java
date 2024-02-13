@@ -85,4 +85,6 @@
         not visited
 
 - 13. Omniscient ==> not applied
+
+- 14. Accenture ==> 
 ```
