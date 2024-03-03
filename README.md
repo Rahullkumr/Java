@@ -85,4 +85,10 @@
         not visited
 
 - 13. Omniscient ==> not applied
+
+- 14. magik software solutions ==> applied
+
+- 15. Alpha ict ==> applied (Android dev)
+
+- 15. Alpha ict ==> applied (Software dev)
 ```
