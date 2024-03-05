@@ -86,7 +86,7 @@
 
 - 13. Omniscient ==> not applied
 
-- 14. magik software solutions ==> applied
+- 14. magik software solutions ==> applied (not visited)
 
 - 15. Alpha ict ==> applied (Android dev)
 
