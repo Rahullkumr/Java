@@ -91,4 +91,8 @@
 - 15. Alpha ict ==> applied (Android dev)
 
 - 15. Alpha ict ==> applied (Software dev)
+
+ 16. Bynry Corporation - Smart Water, electricity & Gas Utility software Company
+ > address: 1st & 2nd Floor, Serene Tower, Pakharbaug Society, Ram Nagar, Bavdhan, Pune, Maharashtra 411021
+
 ```
